@@ -1,1 +1,3 @@
 asdl;jsad;lkj
+
+This line didn't exist in 1.0.
